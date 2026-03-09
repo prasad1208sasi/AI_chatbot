@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click Reset Password and follow the instructions sent to your email."
+  },
+  {
+    "title": "Account Creation",
+    "content": "Users can create a new account by clicking the Sign Up button on the homepage and entering their email and password."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can delete their account from Settings > Privacy > Delete Account."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "content": "Subscriptions can be cancelled from the Billing section in account settings."
+  },
+  {
+    "title": "Payment Methods",
+    "content": "The platform supports credit card, debit card and UPI payments."
+  }
+]
